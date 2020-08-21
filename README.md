@@ -8,8 +8,8 @@ Twitter Sentiment Analysis for Sentiment140 Dataset
 
 ### TODO:
 Use classification models like 
-1. Logistic Regression, (06/27)
-2. SVM, (06/27)
-3. Random Forest, (06/28)
-4. CNN(07/03)
+1. Logistic Regression, 
+2. SVM, 
+3. Random Forest, 
+4. CNN
 on the Word2Vec results.
